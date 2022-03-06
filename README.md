@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidhartha Konda</h1>
 <h3 align="center">A passionate full stack developer and DevOps student</h3>
 
-<a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/readme_banner.gif" width="260" height="auto"></a>
+<a href="" target="_blank"><img align='right' src="readme_banner.gif" width="260" height="auto"></a>
 - 🔭 I’m currently working on **Front end development**
 
 - 🌱 I’m currently learning **DevOps**
